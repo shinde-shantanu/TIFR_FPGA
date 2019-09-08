@@ -1,0 +1,24 @@
+Before 13/07/2018
+Study of Digital Logic basics (Gates, sequential and combinational logic)
+Verilog programming basics
+Study of FPGA Architecture
+
+13/07/2018-27/07/2018
+Simulation of basic programs: D Flip-flop, Hello World, Up Counter
+Simulation of 4:1 4-bit MUX using if-else and 8-bit 10:1 MUX using switch case.
+Study on FSM in Digital circuits
+Reading up on TDC and various methods of implementing TDC
+Study about various datatypes, difference between reg and wire and various methods of calling
+modules.
+Simulation of synchronous MUX (task given during meeting)
+
+27/07/2018-03/08/2018
+Simulation of synchronous MUX using asynchronous reset
+Reading up on TDC and various methods of implementing TDC
+Reading about TDC (delay-line TDC) in brief with a view to implement
+
+14/10/2018
+Simulation of state machine of counter on FPGA board.
+Simulation of generating multiple carry4 instances to form carry chain.
+Mapping a simple program that counts till 10s and makes led high on FPGA board.
+Burning the state machine of counter program onto the FPGA board.
